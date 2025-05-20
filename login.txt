@@ -9,7 +9,7 @@
      
   },
   {
-    "email": "'amanateuman@shadow.com",
+    "email": "amanateuman@shadow.com",
     "password": "amanateuman@jo1987",
     "key": "LEKU-3CK7-VMWE-KWK7-WCLH-MWWP-K7HH-3W4Y",
     "product": "e5be5e15-6371-4e04-826a-77364053dbca",
