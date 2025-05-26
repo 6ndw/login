@@ -1,7 +1,7 @@
 [
   {
     "email": "shdw@shadow.com",
-    "password": "shadowatomic@$16102001$#&182shadowishereshadowq8widj",
+    "password": "shadowatomic@$161",
     "key": "E3MH-KFHW-PKKY-3HKM-A9LH-WTK3-ALMX-Y7EH",
     "product": "e5be5e15-6371-4e04-826a-77364053dbca",
     "policy": "c677ccf8-c81c-4a15-a600-0b248667daec",
