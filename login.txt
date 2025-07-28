@@ -1,19 +1,10 @@
 [
   {
-    "email": "shdw@shadow.com",
-    "password": "shadowatomic@$161",
-    "key": "E3MH-KFHW-PKKY-3HKM-A9LH-WTK3-ALMX-Y7EH",
-    "product": "e5be5e15-6371-4e04-826a-77364053dbca",
-    "policy": "c677ccf8-c81c-4a15-a600-0b248667daec",
-    "fingerprint": "74:12:30:75:48:30:22:58"
-     
+    "email": "shdw@acure.com",
+    "password": "shadowatomic@$161", 
   },
   {
-    "email": "amanateuman@shadow.com",
-    "password": "amanateuman@jo1987",
-    "key": "LEKU-3CK7-VMWE-KWK7-WCLH-MWWP-K7HH-3W4Y",
-    "product": "e5be5e15-6371-4e04-826a-77364053dbca",
-    "policy": "c677ccf8-c81c-4a15-a600-0b248667daec",
-    "fingerprint": "74:12:30:75:48:30:22:58"
+    "email": "amanateuman@acure.com",
+    "password": "amanateuman@jo1987"
   }
 ]
